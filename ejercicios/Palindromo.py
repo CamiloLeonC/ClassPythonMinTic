@@ -16,6 +16,6 @@ def run():
     else:
         print('No es palíndromo')
 
-
+#Punto de entrada de un archivo
 if __name__ == '__main__':
     run()
